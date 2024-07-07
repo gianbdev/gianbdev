@@ -7,6 +7,7 @@
   <ul>
     <li>🔄 Proficient in building RESTful APIs </li>
     <li>☁️ Skilled in Franeworks Backend: Laravel, ASP.NET, Django and Spring Boot</li>
+    <li>* Latelly, I have fun programming in Go and Typescript </li>
   </ul>
 </div>
 
