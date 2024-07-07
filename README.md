@@ -2,7 +2,7 @@
   <h1 align="center">Hi there  👋</h1>
 </div>
 
-<img src="./aws-banner2.png" alt="ssr" style="width: 100%; height: 30%">
+<!--<img src="./aws-banner2.png" alt="ssr" style="width: 100%; height: 30%">-->
 
 <div class="container-fluid">  
   <h2>About Me</h2>
