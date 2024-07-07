@@ -1,10 +1,9 @@
 
 <!--<img src="./aws-banner2.png" alt="ssr" style="width: 100%; height: 30%">-->
 
-<div class="container-fluid">  
-  <h2>About Me</h2>  
-  👋 Hi there! I'm Giancarlo, a passionate backend developer proficient in building RESTful APIs.
-</div>
+**About Me** 
+* 👋 Hi there! I'm Giancarlo, a passionate backend developer proficient in building RESTful APIs.
+
 <div class="container">
   <h2>Skills</h2>
   - Proficient in building RESTful APIs 
