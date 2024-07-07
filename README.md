@@ -5,13 +5,11 @@
   <h2>About Me</h2>  
   👋 Hi there! I'm Giancarlo, a passionate backend developer proficient in building RESTful APIs.
 </div>
-<div>
+<div class="container">
   <h2>Skills</h2>
-   <ul>
-    - Proficient in building RESTful APIs 
-    - Skilled in Franeworks Backend: Laravel, ASP.NET and Django
-    - Enjoy working with TypeScript and Go for developing scalable solutions.
-  </ul>
+  - Proficient in building RESTful APIs 
+  - Skilled in Franeworks Backend: Laravel, ASP.NET and Django
+  - Enjoy working with TypeScript and Go for developing scalable solutions.
 </div>
 
 <!-- Adding margin bottom to create space -->
