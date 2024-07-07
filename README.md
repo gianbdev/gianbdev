@@ -2,12 +2,15 @@
 <!--<img src="./aws-banner2.png" alt="ssr" style="width: 100%; height: 30%">-->
 
 <div class="container-fluid">  
-  <h2>About Me</h2>
-
-  <ul>
-    <li>🔄 Proficient in building RESTful APIs </li>
-    <li>☁️ Skilled in Franeworks Backend: Laravel, ASP.NET, Django and Spring Boot</li>
-    <li>* Latelly, I have fun programming in Go and Typescript </li>
+  <h2>About Me</h2>  
+  👋 Hi there! I'm Giancarlo, a passionate backend developer proficient in building RESTful APIs.
+</div>
+<div>
+  <h2>Skills</h2>
+   <ul>
+    - Proficient in building RESTful APIs 
+    - Skilled in Franeworks Backend: Laravel, ASP.NET and Django
+    - Enjoy working with TypeScript and Go for developing scalable solutions.
   </ul>
 </div>
 
