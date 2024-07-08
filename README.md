@@ -5,9 +5,9 @@
 * 👋 Hi there! I'm Giancarlo, a software engineer with a preference for backend development.
 
 **Skills**
-* I can build scalable and concurrent RESTful APIs
-* Franeworks Backend on my job: Laravel, ASP.NET and Django
-* Lately I'm enjoying working with TypeScript and Go to develop scalable solutions..
+* I can build scalable and concurrent RESTful APIs. 
+* Angular and Laravel are Framework's that I like as well. 
+* Lately I'm enjoying working with TypeScript and Go to develop scalable solutions.
 
 
 <!-- Adding margin bottom to create space -->
