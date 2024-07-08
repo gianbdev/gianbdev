@@ -2,13 +2,12 @@
 <!--<img src="./aws-banner2.png" alt="ssr" style="width: 100%; height: 30%">-->
 
 **About Me** 
-* 👋 Hi there! I'm Giancarlo, a passionate backend developer proficient in building RESTful APIs.
-
+* 👋 Hi there! I'm Giancarlo, a software engineer with a preference for backend development.
 
 **Skills**
-* Proficient in building RESTful APIs
-* Skilled in Franeworks Backend: Laravel, ASP.NET and Django
-* Enjoy working with TypeScript and Go for developing scalable solutions.
+* I can build scalable and concurrent RESTful APIs
+* Franeworks Backend on my job: Laravel, ASP.NET and Django
+* Lately I'm enjoying working with TypeScript and Go to develop scalable solutions..
 
 
 <!-- Adding margin bottom to create space -->
@@ -46,9 +45,6 @@
 
 <div class="container">
   <h2>Contact</h2>
-
-  <p>Feel free to contact me if you're looking for a reliable and passionate backend developer to collaborate on your project!</p>
-
   <ul>
     <li>Email: <a href="mailto:giancarlosilvagutierrez55@gmail.com">giancarlosilvagutierrez55@gmail.com</a></li>
     <li>LinkedIn: <a href="https://www.linkedin.com/in/giancarlo-silva-000a13285/">Giancarlo Silva</a></li>
