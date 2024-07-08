@@ -2,7 +2,8 @@
 <!--<img src="./aws-banner2.png" alt="ssr" style="width: 100%; height: 30%">-->
 
 **About Me** 
-* 👋 Hi there! I'm Giancarlo, a software engineer with a preference for backend development.
+* 👋 Hi there! I'm Giancarlo, a software engineer with a preference for the backend although I like angular and nuxt.js on the frontend
+
 
 **Skills**
 * I can build scalable and concurrent RESTful APIs. 
