@@ -5,7 +5,7 @@
 * 👋 Hi there! I'm Giancarlo, a software engineer with a preference for the backend although I like angular and nuxt.js on the frontend
 * I can build scalable and concurrent RESTful APIs. 
 * .NET and Laravel are Framework's that I like as well. 
-* Lately I'm enjoying working with TypeScript and Go to develop scalable solutions.
+* Lately I'm enjoying working with TypeScript and Go to develop solutions.
 
 
 <!-- Adding margin bottom to create space -->
