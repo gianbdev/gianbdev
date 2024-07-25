@@ -1,14 +1,14 @@
 
 <!--<img src="./aws-banner2.png" alt="ssr" style="width: 100%; height: 30%">-->
 
-## About Me
+**About Me**
 * 👋 Hi there! I'm Giancarlo, a software engineer with a preference for the backend although I like angular and nuxt.js on the frontend
 * I can build scalable and concurrent RESTful APIs. 
 * .NET and Laravel are Framework's that I like as well. 
 * Lately I'm enjoying working with TypeScript and Go to develop solutions.
 
 
-## Programming Languages
+**Programming Languages**
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -23,7 +23,7 @@
       <img src="https://skillicons.dev/icons?i=git,vercel,emacs,vim,neovim,bash,visualstudio,vscode,eclipse,linux,arch,kali,mint,ubuntu,debian,windows,mysql,mongodb,sqlite,firebase,postgres,graphql,heroku,azure,gcp,svg,perl,nginx,yarn,cmake,npm,pnpm,nodejs,laravel,nestjs,django,dotnet,angular,go,js,jquery,lua,wordpress,github,gitlab,gmail,discord,obsidian,linkedin,postman,docker,stackoverflow" />
 </a>-->
 
-## Contact:
+**Contact**
 <ul>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/giancarlo-silva-000a13285/">Giancarlo Silva</a></li>
   <li>Website: <a href="#">Under Maintenance</a></li>
