@@ -37,10 +37,10 @@
 
 **Highlighted Projects**
 
-[**REST API + JWT**](https://maintenance-page-test.vercel.app/)
-[**REST API en Nestjs**](https://maintenance-page-test.vercel.app/)
-[**My Web Software 1**](https://maintenance-page-test.vercel.app/)
-[**My Web Software 2**](https://maintenance-page-test.vercel.app/)
+- [**REST API + JWT**](https://maintenance-page-test.vercel.app/)
+- [**REST API en Nestjs**](https://maintenance-page-test.vercel.app/)
+- [**My Web Software 1**](https://maintenance-page-test.vercel.app/)
+- [**My Web Software 2**](https://maintenance-page-test.vercel.app/)
   
 **Contact**
 <ul>
