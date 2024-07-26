@@ -37,23 +37,16 @@
 
 **Highlighted Projects**
 
-- **REST API + JWT**: Management [software] with secure authentication and Angular frontend.
-- **REST API en Nestjs - HR Software**: Streamlined solution for [HR] management.
-- **My tw clon**: Simplified [Twitter] with core features and real-time updates.
-- **My uni Software**: Solution for [student] and university management.
+[**REST API + JWT**](https://maintenance-page-test.vercel.app/)
+[**REST API en Nestjs**](https://maintenance-page-test.vercel.app/)
+[**My Web Software 1**](https://maintenance-page-test.vercel.app/)
+[**My Web Software 2**](https://maintenance-page-test.vercel.app/)
   
 **Contact**
 <ul>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/giancarlo-silva-000a13285/">Giancarlo Silva</a></li>
   <li>Website: <a href="https://maintenance-page-test.vercel.app/">Under Maintenance</a></li>
 </ul>
-
-[software]: https://maintenance-page-test.vercel.app/
-[Twitter]: https://maintenance-page-test.vercel.app/
-[student]: https://maintenance-page-test.vercel.app/
-[HR]: https://maintenance-page-test.vercel.app/
-
-
 
 <!--<
 SQUARE ICONS
