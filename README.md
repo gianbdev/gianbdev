@@ -45,13 +45,13 @@
 **Contact**
 <ul>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/giancarlo-silva-000a13285/">Giancarlo Silva</a></li>
-  <li>Website: <a href="#">Under Maintenance</a></li>
+  <li>Website: <a href="https://maintenance-page-test.vercel.app/">Under Maintenance</a></li>
 </ul>
 
-[software]: https://github.com/gianbdev/C-Challenges
-[Twitter]: https://github.com/gianbdev/C-Challenges
-[student]: https://github.com/gianbdev/C-Challenges
-[HR]: https://github.com/gianbdev/C-Challenges
+[software]: https://maintenance-page-test.vercel.app/
+[Twitter]: https://maintenance-page-test.vercel.app/
+[student]: https://maintenance-page-test.vercel.app/
+[HR]: https://maintenance-page-test.vercel.app/
 
 
 
