@@ -35,6 +35,13 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+**Highlighted Projects**
+
+- **REST API + JWT**: Clinic management system with secure authentication and Angular frontend.
+- **REST API en Nestjs - HR Software**: Streamlined solution for HR management.
+- **Tw Clon**: Simplified Twitter with core features and real-time updates.
+- **Uni Software**: Robust platform for managing student records and enrollments.
+  
 **Contact**
 <ul>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/giancarlo-silva-000a13285/">Giancarlo Silva</a></li>
