@@ -37,7 +37,7 @@
 
 **Highlighted Projects**
 
-- **REST API + JWT**: [Management software] with secure authentication and Angular frontend.
+- **REST API + JWT**: Management [software] with secure authentication and Angular frontend.
 - **REST API en Nestjs - HR Software**: Streamlined solution for [HR] management.
 - **My tw clon**: Simplified [Twitter] with core features and real-time updates.
 - **My uni Software**: Solution for [student] and university management.
@@ -48,7 +48,7 @@
   <li>Website: <a href="#">Under Maintenance</a></li>
 </ul>
 
-[Managment software]: https://github.com/gianbdev/C-Challenges
+[software]: https://github.com/gianbdev/C-Challenges
 [Twitter]: https://github.com/gianbdev/C-Challenges
 [student]: https://github.com/gianbdev/C-Challenges
 [HR]: https://github.com/gianbdev/C-Challenges
