@@ -23,9 +23,17 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgresSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-<!--<a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,vercel,emacs,vim,neovim,bash,visualstudio,vscode,eclipse,linux,arch,kali,mint,ubuntu,debian,windows,mysql,mongodb,sqlite,firebase,postgres,graphql,heroku,azure,gcp,svg,perl,nginx,yarn,cmake,npm,pnpm,nodejs,laravel,nestjs,django,dotnet,angular,go,js,jquery,lua,wordpress,github,gitlab,gmail,discord,obsidian,linkedin,postman,docker,stackoverflow" />
-</a>-->
+
+**Frameworks and Tools**
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092D1F?style=for-the-badge&logo=django&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **Contact**
 <ul>
@@ -33,3 +41,9 @@
   <li>Website: <a href="#">Under Maintenance</a></li>
 </ul>
 
+
+<!--<
+SQUARE ICONS
+a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,vercel,emacs,vim,neovim,bash,visualstudio,vscode,eclipse,linux,arch,kali,mint,ubuntu,debian,windows,mysql,mongodb,sqlite,firebase,postgres,graphql,heroku,azure,gcp,svg,perl,nginx,yarn,cmake,npm,pnpm,nodejs,laravel,nestjs,django,dotnet,angular,go,js,jquery,lua,wordpress,github,gitlab,gmail,discord,obsidian,linkedin,postman,docker,stackoverflow" />
+</a>-->
