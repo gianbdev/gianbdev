@@ -35,12 +35,13 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**Highlighted Projects**
+**Some Projects**
 
 - [**REST API + JWT**](https://maintenance-page-test.vercel.app/)
 - [**REST API en Nestjs**](https://maintenance-page-test.vercel.app/)
 - [**My Web Software 1**](https://maintenance-page-test.vercel.app/)
 - [**My Web Software 2**](https://maintenance-page-test.vercel.app/)
+- [**Excercices in c++**](https://github.com/gianbdev/C-Challenges/)
   
 **Contact**
 <ul>
