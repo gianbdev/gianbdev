@@ -43,7 +43,7 @@
 - [**My Web Software 2**](https://maintenance-page-test.vercel.app/)
 - [**Laravel Web 1**](https://iboutplacement.com/)
 - [**Laravel Web 2**](https://ibconstruye.com/)
-- [**Excercices in c++**](https://github.com/gianbdev/C-Challenges/)
+- [**Excercises in c++**](https://github.com/gianbdev/C-Challenges/)
   
 **Contact**
 <ul>
