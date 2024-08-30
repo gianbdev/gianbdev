@@ -1,8 +1,8 @@
 
 <!--<img src="./aws-banner2.png" alt="ssr" style="width: 100%; height: 30%">-->
 
-**About Me**
-* 👋 Hi there! I'm Giancarlo, a software engineer with a preference for the backend although I like angular and nuxt.js on the frontend
+**👋 Hi there! I'm Giancarlo**
+* I am a Software Engineer with a preference for the backend although I like angular and nuxt.js on the frontend
 * I can build scalable and concurrent RESTful APIs. 
 * Laravel, Spring Boot and .NET are Framework's that I like as well. 
 * Lately I'm enjoying working with TypeScript and Go to develop solutions.
