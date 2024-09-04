@@ -2,7 +2,7 @@
 <!--<img src="./aws-banner2.png" alt="ssr" style="width: 100%; height: 30%">-->
 
 **👋 Hi there! I'm Giancarlo**
-* I am a Software Engineer with a preference for the backend although I like angular and nuxt.js on the frontend
+* I am a Software Engineer with a preference for the backend although I like Angular and Svelte on the frontend
 * I can build scalable and concurrent RESTful APIs. 
 * Laravel, Spring Boot and .NET are Framework's that I like as well. 
 * Lately I'm enjoying working with TypeScript and Go to develop solutions.
@@ -33,7 +33,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
