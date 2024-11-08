@@ -53,7 +53,6 @@
   
 **Contact**
 <ul>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/giancarlo-silva-000a13285/">Giancarlo Silva</a></li>
   <li>Website: <a href="https://maintenance-page-test.vercel.app/">Under Maintenance</a></li>
 </ul>
 
