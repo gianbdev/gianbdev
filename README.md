@@ -1,7 +1,7 @@
 **👋 Hi there! I'm Giancarlo**
 * I am a Software Engineer with a preference for the backend although I like Angular and Svelte on the frontend
 * I can build scalable and concurrent RESTful APIs. 
-* Spring Boot, LARAVEL and .NET are Framework's that I like as well. 
+* Spring Boot, Laravel and .NET are Framework's that I like as well. 
 * Lately I'm enjoying working with TypeScript and Rust to develop solutions.
 
 **Programming Languages**
