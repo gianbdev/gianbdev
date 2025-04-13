@@ -42,11 +42,6 @@
 - [**Laravel Web 2**](https://ibconstruye.com/)
 - [**Excercises in c++**](https://github.com/gianbdev/C-Challenges/)
   
-**Contact**
-<ul>
-  <li><a href="https://my-portfolio-six-neon-61.vercel.app/">Mi Portfolio</a></li>
-</ul>
-
 <!--<
 SQUARE ICONS
 a href="https://skillicons.dev">
