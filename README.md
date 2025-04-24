@@ -14,10 +14,6 @@
 
 🏗️ Puedo construir APIs RESTful escalables y concurrentes.
 
-⚡ Me encantan Spring Boot y Laravel como frameworks.
-
-🔥 Actualmente disfruto trabajar con TypeScript y Rust.
-
 ---
 
 ### 🛠️ Tecnologías y Herramientas
