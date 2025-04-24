@@ -1,37 +1,56 @@
-**👋 Hi there! I'm Giancarlo**
-* I am a Software Engineer with a preference for the backend although I like Angular and Svelte on the frontend
-* I can build scalable and concurrent RESTful APIs. 
-* Spring Boot and Laravel are Framework's that I like as well. 
-* Lately I'm enjoying working with TypeScript and Rust to develop solutions.
+👋 ¡Hola! Soy Giancarlo
+🚀 Sobre mí
+💻 Software Engineer con preferencia por el backend, aunque también me gusta trabajar con Angular y Svelte en el frontend.
 
-**Programming Languages**
+🏗️ Puedo construir APIs RESTful escalables y concurrentes.
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+⚡ Me encantan Spring Boot y Laravel como frameworks.
 
-**Database that I use currently ...**
+🔥 Actualmente disfruto trabajando con TypeScript y Rust para desarrollar soluciones.
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgresSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+🛠️ Tecnologías y Herramientas
+Lenguajes de Programación
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" height="20" alt="Java"> Java
 
-**Frameworks and Tools**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="20" height="20" alt="PHP"> PHP
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger UI](https://img.shields.io/badge/Swagger_UI-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20" height="20" alt="TypeScript"> TypeScript
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="20" height="20" alt="Rust"> Rust
+
+Bases de Datos
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" height="20" alt="MySQL"> MySQL
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" height="20" alt="PostgreSQL"> PostgreSQL
+
+Frameworks y Herramientas
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="20" height="20" alt="Spring Boot"> Spring Boot
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="20" height="20" alt="Laravel"> Laravel
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20" height="20" alt="Node.js"> Node.js
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="20" height="20" alt="Angular"> Angular
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" height="20" alt="Git"> Git
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" height="20" alt="GitHub Actions"> GitHub Actions
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="20" height="20" alt="GitLab"> GitLab
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="20" height="20" alt="Jira"> Jira
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" height="20" alt="Docker"> Docker
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="20" height="20" alt="Azure"> Azure
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="20" height="20" alt="AWS"> AWS
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="20" height="20" alt="Vercel"> Vercel
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="20" height="20" alt="Postman"> Postman
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="20" height="20" alt="Swagger"> Swagger UI
 
 **Some Projects**
 
@@ -42,8 +61,3 @@
 - [**Laravel Web 2**](https://ibconstruye.com/)
 - [**Excercises in c++**](https://github.com/gianbdev/C-Challenges/)
   
-<!--<
-SQUARE ICONS
-a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,vercel,emacs,vim,neovim,bash,visualstudio,vscode,eclipse,linux,arch,kali,mint,ubuntu,debian,windows,mysql,mongodb,sqlite,firebase,postgres,graphql,heroku,azure,gcp,svg,perl,nginx,yarn,cmake,npm,pnpm,nodejs,laravel,nestjs,django,dotnet,angular,go,js,jquery,lua,wordpress,github,gitlab,gmail,discord,obsidian,linkedin,postman,docker,stackoverflow" />
-</a>-->
