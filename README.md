@@ -1,6 +1,6 @@
 ###
 
-<h1 align="center">👋 Hola, soy Giancarlo</h1>
+<h1 align="center">👋 Hi, I'm Giancarlo
 
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
@@ -8,15 +8,15 @@
 
 ---
 
-### 🚀 Sobre mí
+### 🚀 About me
 
-👨‍💻 Software Engineer con preferencia por el backend, aunque también disfruto trabajar con Angular y Svelte en el frontend.
+👨‍💻  I'm a Software Engineer with a strong preference for backend development, although I also enjoy working with Angular and React on the frontend.
 
-🏗️ Puedo construir APIs RESTful escalables y concurrentes.
+🏗️ I build scalable and concurrent RESTful APIs.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Technologies & Tools
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
@@ -57,9 +57,7 @@
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
   <img width="10"/>
-  <img src="https://cdn.simpleicons.org/swagger/85EA2D" height="40" alt="Swagger" />
-  <img width="10"/>
-
+  
 </div>
 
 ###
