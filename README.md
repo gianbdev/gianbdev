@@ -2,13 +2,15 @@
 
 <h1 align="center">👋 Hi, I'm Giancarlo
 
+---
+  
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 </div>
 
 ---
 
-### 🚀 About me
+🚀 About me
 
 👨‍💻  I'm a Software Engineer with a strong preference for backend development, although I also enjoy working with Angular and React on the frontend.
 
