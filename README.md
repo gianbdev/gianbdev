@@ -29,11 +29,9 @@
   <img width="10"/>
   <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TypeScript" />
   <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="Rust" />
-  <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
   <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="Laravel" />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="Laravel" />
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" />
   <img width="10"/>
@@ -54,8 +52,6 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
   <img width="10"/>
   <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="GitLab" />
-  <img width="10"/>
-  <img src="https://skillicons.dev/icons?i=jira" height="40" alt="Jira" />
   <img width="10"/>
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" />
   <img width="10"/>
