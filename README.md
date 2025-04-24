@@ -1,55 +1,68 @@
+###
+
 <h1 align="center">👋 Hola, soy Giancarlo</h1>
 
-<p align="center">🚀 Software Engineer enfocado en backend, aunque también disfruto trabajar con Angular y Svelte en el frontend.</p>
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=790b76112ah10w5kqpytrwe6bz3inf7qz8c0l133gasfs724&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+</div>
 
-<p align="center">🏗️ Creo APIs RESTful escalables y concurrentes.</p>
-<p align="center">⚡ Fan de Spring Boot, Laravel, TypeScript y Rust.</p>
+---
+
+### 🚀 Sobre mí
+
+👨‍💻 Software Engineer con preferencia por el backend, aunque también disfruto trabajar con Angular y Svelte en el frontend.
+
+🏗️ Puedo construir APIs RESTful escalables y concurrentes.
+
+⚡ Me encantan Spring Boot y Laravel como frameworks.
+
+🔥 Actualmente disfruto trabajar con TypeScript y Rust.
 
 ---
 
 ### 🛠️ Tecnologías y Herramientas
 
-#### 👨‍💻 Lenguajes
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" height="40" alt="Rust"/>
-</p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img width="10"/>
+  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="Spring" />
+  <img width="10"/>
+  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TypeScript" />
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="Rust" />
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="Laravel" />
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" />
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img width="10"/>
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel" />
+  <img width="10"/>
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="Azure" />
+  <img width="10"/>
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
+  <img width="10"/>
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
+  <img width="10"/>
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+  <img width="10"/>
+  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="GitLab" />
+  <img width="10"/>
+  <img src="https://skillicons.dev/icons?i=jira" height="40" alt="Jira" />
+  <img width="10"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" />
+  <img width="10"/>
+  <img src="https://skillicons.dev/icons?i=swagger" height="40" alt="Swagger UI" />
+</div>
 
-#### 🗄️ Bases de Datos
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-</p>
-
-#### ⚙️ Frameworks y Herramientas
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40" alt="Laravel"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="Angular"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-</p>
-
-#### ☁️ Cloud y DevOps
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" alt="Azure"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40" alt="Vercel"/>
-</p>
-
-#### 🧪 Testing & Otros
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" alt="Postman"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="40" height="40" alt="Swagger UI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40" alt="GitLab"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40" alt="Jira"/>
-</p>
-
----
+###
 
 **Some Projects**
 
