@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hola, soy Giancarlo</h1>
 
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=790b76112ah10w5kqpytrwe6bz3inf7qz8c0l133gasfs724&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+  <img height="200" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 </div>
 
 ---
