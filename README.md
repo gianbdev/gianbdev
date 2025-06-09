@@ -59,9 +59,10 @@
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
   <img width="10"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Grafana_Logo.svg/1200px-Grafana_Logo.svg.png" alt="Grafana" width="50" height="30"/>
+  
+  ![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=2C3E50)
   <img width="10"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/1200px-Apache_kafka.svg.png" alt="Kafka" width="50" height="30"/>
+  ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
   <img width="10"/>
   
 </div>
