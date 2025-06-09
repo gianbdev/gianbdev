@@ -59,6 +59,10 @@
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
   <img width="10"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Grafana_Logo.svg/1200px-Grafana_Logo.svg.png" alt="Grafana" width="50" height="30"/>
+  <img width="10"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/1200px-Apache_kafka.svg.png" alt="Kafka" width="50" height="30"/>
+  <img width="10"/>
   
 </div>
 
