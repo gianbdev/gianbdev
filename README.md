@@ -1,6 +1,5 @@
-<h1 align="center">👋 Hi, I'm Giancarlo</h1>
+<h1 align="center">👋 Hi, I'm Giancarlo</h1></br>
 
----
 
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
@@ -71,6 +70,8 @@
 |---------|-------------|------------|
 | **[REST API + JWT](https://maintenance-page-test.vercel.app/)** | Secure authentication system | Java, Spring Boot, JWT |
 | **[Laravel Web App](https://iboutplacement.com/)** | Professional outplacement platform | PHP, Laravel, MySQL |
+| **[Laravel Web App](https://ibconstruye.com/)** | Professional platform | PHP, Laravel, MySQL |
+| **[Laravel Web App](https://ibseguros.com/)** | Professional seguros platform | PHP, Laravel, MySQL |
 | **[C++ Challenges](https://github.com/gianbdev/C-Challenges/)** | Algorithmic exercises repository | C++ |
 
 ---
