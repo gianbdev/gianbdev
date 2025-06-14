@@ -20,63 +20,64 @@
 <div align="center">
 
   <!-- Lenguajes -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="40" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=java" height=40 />
   <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain-wordmark.svg" height="40" alt="JUnit" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain-wordmark.svg" height="40" />
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="10"/>          
   <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TypeScript" />
   <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
+  <img src="https://skillicons.dev/icons?i=php" height=40 />
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img width="10"/> 
+  <img width="10"/>
+  <img src="https://skillicons.dev/icons?i=bash" height=40 />
+  <img width="10">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" height="40" alt="yaml" />
   <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" height="40" alt="Spring" />
+  <img src="https://skillicons.dev/icons?i=spring" height=40 />
   <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="40" alt="Angular" />
+  <img src="https://skillicons.dev/icons?i=angular" height=40 />
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularmaterial/angularmaterial-original.svg" height="40" alt="Angular Material" />
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/capacitor/capacitor-original.svg"  height="40" alt="Capacitor" />
   <img width="10"/>
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="Laravel" />
+  <img src="https://skillicons.dev/icons?i=laravel" height=40 />
   <img width="10"/>       
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" height="40" alt="CMake" />  
+  <img src="https://skillicons.dev/icons?i=cmake" height=40 />
   <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="NodeJs" />
-                  
+  <img src="https://skillicons.dev/icons?i=nodejs" height=40 />
 
   <!-- Bases de datos -->
   <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=postgres" height=40 />
   <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=mysql" height=40 />
   <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" height="40" alt="Hibernate" />
+  <img src="https://skillicons.dev/icons?i=hibernate" height=40 />
 
   <!-- DevOps -->
   <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=docker" height=40 />
   <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height=40 />
   <img width="10"/>
-  <img src="https://cdn.simpleicons.org/apachekafka/231F20" height="40" alt="Kafka" />
+  <img src="https://skillicons.dev/icons?i=kafka" height=40 />
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-plain-wordmark.svg" height="40" alt="Grafana" />
   <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" height="40" alt="Gradle" />
+  <img src="https://skillicons.dev/icons?i=gradle" height=40 />
   <img width="10"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg" height="40" alt="Maven" />
+  <img src="https://skillicons.dev/icons?i=maven" height=40 />
   <img width="10"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" height="40" alt="Jenkins" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height=40 />
   <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original-wordmark.svg" height="40" alt="Kibana" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original.svg" height="35" />
   <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original-wordmark.svg" height="40" alt="SonarQube" />
-        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-plain-wordmark.svg" height="40" />
+                  
   <!-- Cloud -->
   <img width="10"/>
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
@@ -87,14 +88,17 @@
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" height="40" alt="Azure DevOps" />
   <img width="10"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original-wordmark.svg" height="40" alt="RabbitMQ" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height=40 />
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original-wordmark.svg" height="40" alt="Railway" />
   <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg" height="40" alt="Redis" />
+  <img src="https://skillicons.dev/icons?i=redis" height=40 />
+  <img width="10"/>
+  <img src="https://skillicons.dev/icons?i=prometheus" height=40 />
 
   <!-- Herramientas -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="40" alt="Intellij" />
+  <img width="10">
+  <img src="https://skillicons.dev/icons?i=idea" height=40 />
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oauth/oauth-original.svg" height="40" alt="OAuth" />
   <img width="10"/> 
@@ -104,7 +108,7 @@
   <img width="10"/>
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
   <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg"  height="40" alt="GitHub Actions"  />
+  <img src="https://skillicons.dev/icons?i=githubactions" height=40 />
   <img width="10"/>
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" />
   <img width="10"/>
@@ -116,15 +120,15 @@
   <img width="10"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg"  height="40" alt="Dbeaver"  />
   <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/emacs/emacs-original.svg"  height="40" alt="Emacs"  />
+  <img src="https://skillicons.dev/icons?i=emacs" height=40 />
   <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original-wordmark.svg" height="40" alt="Nvim" />
+  <img src="https://skillicons.dev/icons?i=neovim" height=40 />
   <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" height="40" alt="NGINX" />
+  <img src="https://skillicons.dev/icons?i=nginx" height=40 />
   <img width="10"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nano/nano-plain-wordmark.svg" height="40" alt="nano" />
   <img width="10"/>            
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" height="40" alt="nano" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" height="40" alt="slack" />
                                   
 </div>
 
