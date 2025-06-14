@@ -136,7 +136,7 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[REST API + JWT](https://maintenance-page-test.vercel.app/)** | Secure authentication system | Java, Spring Boot, JWT |
+| **[REST API + JWT](https://maintenance-page-test.vercel.app/)** | Secure authentication system | Java, Spring Boot, Security, Cloud |
 | **[Laravel Web App](https://iboutplacement.com/)** | Professional outplacement platform | PHP, Laravel, MySQL |
 | **[Laravel Web App](https://ibconstruye.com/)** | Professional platform | PHP, Laravel, MySQL |
 | **[Laravel Web App](https://ibseguros.com/)** | Professional seguros platform | PHP, Laravel, MySQL |
