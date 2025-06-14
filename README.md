@@ -85,8 +85,6 @@
   <img src="https://skillicons.dev/icons?i=azure" height="40" alt="Azure" />
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" alt="Azure SQL" />
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" height="40" alt="Azure DevOps" />
   <img width="10"/>  
   <img src="https://skillicons.dev/icons?i=rabbitmq" height=40 />
   <img width="10"/>
