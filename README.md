@@ -9,9 +9,17 @@
 
 ### 🚀 About Me
 
-👨‍💻 Software Engineer passionate about **backend development** (Java/Spring, PHP/Laravel) and **scalable APIs**.  
-🌍 Also experienced with **Angular**, **React**, and cloud platforms (AWS, Azure).  
-🏗️ Building robust systems with **Kafka**, **Kubernetes**, and **microservices**.
+- 👨‍💻 Java Backend Engineer focused on delivering reliable, maintainable Rest Services.  
+- 📐 Strong emphasis on clean architecture, microservices, and design principles (SOLID) to produce readable, extensible code.  
+- 🧩 Application of design patterns and modular structures to improve reusability and testability.  
+- ⚙️ Experience with multi-module projects and organizing repositories to support CI/CD pipelines.  
+- 🔒 Security-oriented mindset for API design, covering authentication, authorization, and data protection.  
+- 📈 Performance-driven: identifying and resolving bottlenecks, optimizing latency and throughput.  
+- 🔁 Commitment to quality: unit and integration test coverage, code reviews, and static analysis.  
+- 📡 Focus on observability: structured logging, metrics, and alerting to minimize recovery times.  
+- 🌐 Skilled in building distributed systems with service-to-service communication and scalability in mind.  
+- 🤝 Collaborative approach: effective communication with Product, QA, and Infrastructure teams; mentoring junior developers.  
+- 🚀 Delivery culture: promoting automation and best practices for frequent, safe deployments.
 
 ---
 
