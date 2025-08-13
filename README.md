@@ -142,7 +142,7 @@
 
 | Frontend | Backend | AI / Cloud | Mobile | Database | Testing |
 |----------|---------|------------|--------|----------|---------|
-| Angular (15+), React| Java, Spring Boot, PHP, Laravel | AWS, Azure, Docker, Jenkins, LLMs | Android Studio (Java), React Native | MySQL, PostgreSQL, SQL Server | JUnit, Mockito |
+| Angular (15+) | Java, Spring Boot, PHP, Laravel | AWS, Azure, Docker, Jenkins, LLMs | Android Studio (Java), React Native | MySQL, PostgreSQL, SQL Server | JUnit, Mockito |
 
 ---
 
