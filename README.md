@@ -124,8 +124,6 @@
 
 ---
 
----
-
 ### 🌟 Featured Projects
 
 | Project | Description | Tech Stack |
