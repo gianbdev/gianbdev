@@ -20,27 +20,13 @@
 <div align="center">
 
   <!-- Lenguajes -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img width="10"/>
   <img src="https://skillicons.dev/icons?i=java" height=40 />
   <img width="10"/>
-  <img src="https://skillicons.dev/icons?i=php" height=40 />
-  <img width="10"/>
   <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TypeScript" />
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="10"/>          
-  <img src="https://skillicons.dev/icons?i=bash" height=40 />
-  <img width="10">
-  <img src="https://skillicons.dev/icons?i=cmake" height=40 />
-  <img width="10"/>
-  <img src="https://skillicons.dev/icons?i=spring" height=40 />
-  <img width="10"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" height=40 />
   <img width="10"/>      
+  <img src="https://skillicons.dev/icons?i=spring" height=40 />
+  <img width="10"/>   
   <img src="https://skillicons.dev/icons?i=angular" height=40 />
-  <img width="10"/>
-  <img src="https://skillicons.dev/icons?i=laravel" height=40 /> 
 
   <!-- Bases de datos -->
   <img width="10"/>
@@ -51,10 +37,6 @@
   <!-- DevOps -->
   <img width="10"/>
   <img src="https://skillicons.dev/icons?i=docker" height=40 />
-  <img width="10"/>
-  <img src="https://skillicons.dev/icons?i=kubernetes" height=40 />
-  <img width="10"/>
-  <img src="https://skillicons.dev/icons?i=kafka" height=40 />
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-plain-wordmark.svg" height="40" alt="Grafana" />
   <img width="10"/>
@@ -74,19 +56,10 @@
   <img width="10"/>
   <img src="https://skillicons.dev/icons?i=azure" height="40" alt="Azure" />
   <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" alt="Azure SQL" />
-  <img width="10"/>  
-  <img src="https://skillicons.dev/icons?i=rabbitmq" height=40 />
-  <img width="10"/>
-  <img src="https://skillicons.dev/icons?i=redis" height=40 />
-  <img width="10"/>
-  <img src="https://skillicons.dev/icons?i=prometheus" height=40 />
 
   <!-- Herramientas -->
   <img width="10"/>
   <img src="https://skillicons.dev/icons?i=idea" height=40 />
-  <img width="10"/>
-  <img src="https://skillicons.dev/icons?i=emacs" height=40 />
   <img width="10"/>
   <img src="https://skillicons.dev/icons?i=neovim" height=40 />
   <img width="10"/>
@@ -96,16 +69,12 @@
   <img width="10"/>
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
   <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="Jupiter notebook" />
-  <img width="10"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg"  height="40" alt="Dbeaver"  />
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" height="40" alt="Jira" />
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" alt="Swagger" />
-  <img width="10"/>        
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" height="40" alt="slack" />
-  <img width="10"/>      
+  <img width="10"/>           
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
   <img width="10"/>
   <img src="https://skillicons.dev/icons?i=githubactions" height=40 />
