@@ -63,8 +63,6 @@
   <img width="10"/>
   <img src="https://skillicons.dev/icons?i=neovim" height=40 />
   <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nano/nano-plain-wordmark.svg" height="40" alt="nano" />
-  <img width="10"/>
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" />
   <img width="10"/>
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
